@@ -1,0 +1,12 @@
+name: KeyenceDataAnalyzer
+title: KeyenceDataAnalyzer
+username:
+account: gaelen-guzman
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3899433
+bundleId: 4425175
+url: https://gaelen-guzman.shinyapps.io/KeyenceDataAnalyzer/
+when: 1617391150.89196
+asMultiple: FALSE
+asStatic: FALSE
