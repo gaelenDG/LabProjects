@@ -173,7 +173,7 @@ ui <- bootstrapPage(
       p("    - You first counted the nuclei, and then counted the bacteria/particle/whatever"),
       p("    - You wish to do a pretty basic analysis (nothing totally crazy)"),
       p("Right now, it'll spit out a table with some summary data from each .csv in the input folder. Included right now are the following: 1) #bacteria/#nuclei, 2) total bacteria area/total infected cell area (filters out uninfected cells!!!), and 3) total nucleus area/total cell area (no filter! Looks at all cells!) "),
-      p("I'm still working on flexibility for other analyses, so we'll see if there are updates.... For now the download button only works on Windows, but you can copy and paste if using iOS"),
+      p("I'm still working on flexibility for other analyses, so we'll see if there are updates.... For now, local versions of this app work just fine as long as you use the appropriate directory input button."),
       br(),
       br(),
       h3("Data Preview for input directory:"),
